@@ -41,9 +41,9 @@ const AboutSection = () => {
             </p>
             <br />
             <p>
-              When {"I'll"} not writing code, you can find me out on the disc golf course or
+              When I&apos;ll not writing code, you can find me out on the disc golf course or
               going for a long run downtown. I like to nerd out on new technology and testing
-              new frameworks and {"API's"}.
+              new frameworks and API&apos;s.
             </p>
             <br />
             <p>
@@ -57,7 +57,7 @@ const AboutSection = () => {
               <span className="font-bold text-red-500">
                 love what you do
               </span>{" "}
-              and then {"you'll"} never work a day in your life. I have a
+              and then you&apos;ll never work a day in your life. I have a
               passion for writing code and I am always excited about
               new opportunities.
             </p>
