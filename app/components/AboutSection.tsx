@@ -41,13 +41,13 @@ const AboutSection = () => {
             </p>
             <br />
             <p>
-              When I&apos;ll not writing code, you can find me out on the disc golf course or
+              When I&apos;m not writing code, you can find me out on the disc golf course or
               going for a long run downtown. I like to nerd out on new technology and testing
               new frameworks and API&apos;s.
             </p>
             <br />
             <p>
-                I am interested in creating tools that improve effecienty and websites
+                I am interested in creating tools that improve effeciency and websites
                 that are optimized to drive traffic. Wether I am coding as a career or
                 as a freelancer, I find a lot of joy in delivering a great product.
             </p>

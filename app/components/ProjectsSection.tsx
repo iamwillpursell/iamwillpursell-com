@@ -14,13 +14,6 @@ const projects = [
     link: "https://ranktank.io/",
   },
   {
-    name: "Florida Doodle Dogs",
-    description: "Florida Doodle Dogs is a site for selling high end Doodle dog breeds in the Tampa, Florida area.",
-    image: "/fdd-website.webp",
-    github: "#",
-    link: "https:/floridadoodledogs.com/",
-  },
-  {
     name: "Spacey Space",
     description:
       "Space Space is a playful exporation of user authentication and API integration. Create an account to view a new NASA photo each day.",
