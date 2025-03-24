@@ -13,6 +13,7 @@ const skills = [
   { skill: "Git" },
   { skill: "GitHub" },
   { skill: "Linux" },
+  { skill: "Figma" },
 ]
 
 const AboutSection = () => {
