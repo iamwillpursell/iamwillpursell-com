@@ -16,7 +16,7 @@ const projects = [
   {
     name: "Spacey Space",
     description:
-      "Space Space is a playful exploration of user authentication and API integration. Create an account to view a new NASA photo each day.",
+      "Spacey Space is a playful exploration of user authentication and API integration. Create an account to view a new NASA photo each day.",
     image: "/spacey-space.webp",
     github: "https://github.com/iamwillpursell/Spacey-Space",
     link: "https://spacey-space.netlify.app/login/",
